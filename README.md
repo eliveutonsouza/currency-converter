@@ -5,9 +5,7 @@ Conversor de comeda com gráfico de cambio
 ### Tecnologias utilizadas
 
 1. HTML
-2. Tailwind CSS
+2. CSS
 3. Javascript
+4. Vite
 
-**Hospedagem**
-
-- Vercel
